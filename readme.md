@@ -1,5 +1,5 @@
-Hi  👋 , guys.
-🎯 Interested in Web Dev, DevOps.
-✅ Have some experience in writing smart contract using solidity.
-🗺️ Exploring Hyperledger [Fabric 2.5 LTS](https://hyperledger-fabric.readthedocs.io/en/release-2.5/whatsnew.html).
-🔗 Connect with me on twitter ✌️.
+Hi  👋 , guys.</br>
+🎯 Interested in Web Dev, DevOps.</br>
+✅ Have some experience in writing smart contract using solidity.</br>
+🗺️ Exploring Hyperledger [Fabric 2.5 LTS](https://hyperledger-fabric.readthedocs.io/en/release-2.5/whatsnew.html).</br>
+🔗 Connect with me on twitter ✌️.</br>
