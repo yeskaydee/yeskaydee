@@ -8,7 +8,7 @@ A results-driven CloudOps Engineer with hands-on experience designing, automatin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeskaydee&show_icons=true&theme=vue&hide_border=true&rank_icon=circle" alt="Santosh Kumar's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeskaydee" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeskaydee" alt="GitHub Streak" /> -->
 </p>
 
 ---
