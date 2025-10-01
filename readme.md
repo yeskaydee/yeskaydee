@@ -4,7 +4,7 @@ A results-driven CloudOps Engineer with hands-on experience designing, automatin
 
 ---
 ### ✍️ My Blogs
-[![Santosh's blog posts](https://github-readme-stats.vercel.app/api/pin/?username=yeskaydee&repo=my-blogs&theme=vue&show_owner=true)](https://github.com/yeskaydee/my-blogs/blob/main/blogs.md)
+[![Santosh's blog posts](https://github-readme-stats.vercel.app/api/pin/?username=yeskaydee&repo=my-blogs&theme=vue&show_owner=true)](https://github.com/yeskaydee/my-blogs/blob/main/README.md)
 
 ---
 ### 📈 GitHub Stats
