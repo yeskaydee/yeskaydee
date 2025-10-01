@@ -3,7 +3,10 @@ Hi 👋, I'm Santosh Kumar.
 A results-driven CloudOps Engineer with hands-on experience designing, automating, and supporting cloud infrastructure on Google Cloud Platform (GCP). I'm passionate about building secure, reliable, and efficient cloud environments through proactive monitoring and automation.
 
 ---
+### ✍️ My Blogs
+[![Santosh's blog posts](https://github-readme-stats.vercel.app/api/pin/?username=yeskaydee&repo=my-blogs&theme=vue&show_owner=true)](https://github.com/yeskaydee/my-blogs/blob/main/blogs.md)
 
+---
 ### 📈 GitHub Stats
 
 <p align="center">
