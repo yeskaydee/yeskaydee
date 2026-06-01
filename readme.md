@@ -27,9 +27,9 @@
 
 <div align="center">
 
-| 🥇 Professional Cloud DevOps Engineer | 🥇 Associate Cloud Engineer | 🥇 Cloud Digital Leader |
-|:---:|:---:|:---:|
-| Google Cloud | Google Cloud | Google Cloud |
+| 🥇 Professional Cloud Architect | 🥇 Professional Cloud DevOps Engineer | 🥇 Associate Cloud Engineer | 🥇 Cloud Digital Leader |
+|:---:|:---:|:---:|:---:|
+| Google Cloud | Google Cloud | Google Cloud | Google Cloud |
 
 </div>
 
