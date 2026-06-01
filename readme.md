@@ -19,7 +19,7 @@
 - 🛡️ Passionate about **shift-left security** — catching misconfigurations before they hit production
 - 📉 Focused on **reducing Cloud Build costs** through smarter pipeline design
 - ✅ Maintaining **100% SLA compliance** across managed cloud projects
-- ✍️ I write about cloud engineering and DevOps at **[yeskaydee.space](https://yeskaydee.space)**
+- ✍️ I write about cloud engineering and DevOps at **[yeskaydee.space](https://github.com/yeskaydee/yeskaydee/blob/main/readme.md#%EF%B8%8F-latest-blog-posts)**
 
 ---
 
@@ -54,8 +54,8 @@
 
 **Monitoring & Observability**
 
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+#![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+#![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
 ![Cloud_Monitoring](https://img.shields.io/badge/Cloud_Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
