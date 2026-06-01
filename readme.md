@@ -54,8 +54,8 @@
 
 **Monitoring & Observability**
 
-#![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-#![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+<!-- Your comment here  ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)-->
+<!-- Your comment here  #![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white) -->
 ![Cloud_Monitoring](https://img.shields.io/badge/Cloud_Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
